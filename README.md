@@ -4,20 +4,20 @@
 
 ## Some things I made for cyber security
 
-[Fenjing](https://github.com/Marven11/Fenjing)
-[CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)
-[CTFDailyLogs](https://github.com/Marven11/CTFDailyLogs)
-[YunTong](https://github.com/Marven11/YunTong)
+- 💥[Fenjing](https://github.com/Marven11/Fenjing)
+- 🐞[CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)
+- ✍️[CTFDailyLogs](https://github.com/Marven11/CTFDailyLogs)
+- 👀[YunTong](https://github.com/Marven11/YunTong)
 
 ## Some tools I use
 
-[fscan](https://github.com/Marven11/fscan)
-[cnext-exploits](https://github.com/Marven11/cnext-exploits)
-[Stowaway](https://github.com/Marven11/Stowaway)
-[POC-bomber](https://github.com/Marven11/POC-bomber)
-[ProxyPool](https://github.com/Marven11/ProxyPool)
-[PHP_INCLUDE_TO_SHELL_CHAR_DICT](https://github.com/Marven11/PHP_INCLUDE_TO_SHELL_CHAR_DICT)
+- 👀[fscan](https://github.com/Marven11/fscan)
+- 💥[cnext-exploits](https://github.com/Marven11/cnext-exploits)
+- 🕸[Stowaway](https://github.com/Marven11/Stowaway)
+- 💥[POC-bomber](https://github.com/Marven11/POC-bomber)
+- 🕸[ProxyPool](https://github.com/Marven11/ProxyPool)
+- 💥[PHP_INCLUDE_TO_SHELL_CHAR_DICT](https://github.com/Marven11/PHP_INCLUDE_TO_SHELL_CHAR_DICT)
 
-## I'm a NixOS User❄️
+## I'm a NixOS user❄️
 
-[PentestNixOS](https://github.com/Marven11/PentestNixOS)
+- ❄️[PentestNixOS](https://github.com/Marven11/PentestNixOS)
