@@ -17,6 +17,7 @@
 - 💥[POC-bomber](https://github.com/Marven11/POC-bomber)
 - 🕸[ProxyPool](https://github.com/Marven11/ProxyPool)
 - 💥[PHP_INCLUDE_TO_SHELL_CHAR_DICT](https://github.com/Marven11/PHP_INCLUDE_TO_SHELL_CHAR_DICT)
+- 💥[JNDI-Injection-Exploit](https://github.com/Marven11/JNDI-Injection-Exploit)
 
 ## I'm a NixOS user❄️
 
