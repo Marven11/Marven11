@@ -6,6 +6,7 @@
 
 - 💥[Fenjing](https://github.com/Marven11/Fenjing)
 - 🐞[CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)
+- 🔨[EtherGhost](https://github.com/Marven11/EtherGhost)
 - ✍️[CTFDailyLogs](https://github.com/Marven11/CTFDailyLogs)
 - 👀[YunTong](https://github.com/Marven11/YunTong)
 - 🔨[ImageWebshell](https://github.com/Marven11/ImageWebshell)
