@@ -25,3 +25,7 @@
 ## I'm a NixOS user❄️
 
 - ❄️[PentestNixOS](https://github.com/Marven11/PentestNixOS)
+
+## Buy me a coffee
+
+- ☕️[Here](./buy_me_a_coffee.md)
