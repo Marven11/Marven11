@@ -4,10 +4,10 @@
 
 微信
 
-![weixin](./weixin.jpg)
+<img src="./weixin.jpg" width="200">
 
 支付宝
 
-![zhifubao](./zhifubao.jpg)
+<img src="./zhifubao.jpg" width="200">
 
 可以备注捐赠的项目和自己的ID
