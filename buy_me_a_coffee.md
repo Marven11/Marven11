@@ -2,10 +2,8 @@
 
 觉得脚本好用的话可以请我一杯奶茶....
 
-***REMOVED***
-
 支付宝
 
-![zhifubao](./zhifubao.jpg)
+<img src="./zhifubao.jpg" width="200">
 
 可以备注捐赠的项目和自己的ID
