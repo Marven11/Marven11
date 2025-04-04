@@ -26,6 +26,10 @@
 
 - ❄️[PentestNixOS](https://github.com/Marven11/PentestNixOS)
 
+## Some articles
+
+- [审核中] Fenjing 作者的 Jinja SSTI 完全进阶教程
+
 ## Buy me a coffee
 
 - ☕️[Here](./buy_me_a_coffee.md)
