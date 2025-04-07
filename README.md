@@ -28,7 +28,7 @@
 
 ## Some articles
 
-- [审核中] Fenjing 作者的 Jinja SSTI 完全进阶教程
+- [Fenjing 作者的 Jinja SSTI 完全进阶教程](https://www.freebuf.com/articles/web/426647.html)
 
 ## Buy me a coffee
 
