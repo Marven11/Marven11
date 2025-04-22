@@ -29,6 +29,7 @@
 ## Some articles
 
 - [Fenjing 作者的 Jinja SSTI 完全进阶教程](https://www.freebuf.com/articles/web/426647.html)
+- [实现另一个“编程语言” - 记第四届伏魔挑战赛恶意脚本免杀](https://www.freebuf.com/articles/web/428361.html)
 
 ## Buy me a coffee
 
