@@ -7,6 +7,7 @@
 - 💥[Fenjing](https://github.com/Marven11/Fenjing)
 - 🐞[CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)
 - 🐞[CVE-2024-39205](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)
+- 🐞[CVE-2024-55449](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE)
 - 🔨[EtherGhost](https://github.com/Marven11/EtherGhost)
 - ✍️[CTFDailyLogs](https://github.com/Marven11/CTFDailyLogs)
 - 👀[YunTong](https://github.com/Marven11/YunTong)
