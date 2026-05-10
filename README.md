@@ -9,6 +9,7 @@
 - 🐞[CVE-2024-39205](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)
 - 🐞[CVE-2024-55449](https://github.com/Marven11/CVE-2025-55449-AstrBot-RCE)
 - 🔨[EtherGhost](https://github.com/Marven11/EtherGhost)
+  🔨[LinHai](https://github.com/Marven11/LinHai)
 - ✍️[CTFDailyLogs](https://github.com/Marven11/CTFDailyLogs)
 - 👀[YunTong](https://github.com/Marven11/YunTong)
 - 🔨[ImageWebshell](https://github.com/Marven11/ImageWebshell)
